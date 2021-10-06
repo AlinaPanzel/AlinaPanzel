@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlinaPanzel
 - 👀 I’m interested in all kinds of things that modulate placebo responses.
-- 🌱 I’m currently learning how to code an experiment in Psychtoolbox.
+- 🌱 I’m currently learning how to PhD
 - 💞️ I’m looking to steal your code.
 - 📫 How to reach me alina.panzel@web.de
 
